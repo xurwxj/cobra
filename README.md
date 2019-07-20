@@ -75,7 +75,7 @@ Cobra provides:
 * Automatically generated man pages for your application
 * Command aliases so you can change things without breaking them
 * The flexibility to define your own help, usage, etc.
-* Optional tight integration with [viper](http://github.com/spf13/viper) for 12-factor apps
+* Optional tight integration with [viper](http://github.com/xurwxj/viper) for 12-factor apps
 
 # Concepts
 
@@ -215,7 +215,7 @@ import (
 
   homedir "github.com/mitchellh/go-homedir"
   "github.com/spf13/cobra"
-  "github.com/spf13/viper"
+  "github.com/xurwxj/viper"
 )
 
 func init() {
@@ -357,7 +357,7 @@ command := cobra.Command{
 
 ### Bind Flags with Config
 
-You can also bind your flags with [viper](https://github.com/spf13/viper):
+You can also bind your flags with [viper](https://github.com/xurwxj/viper):
 ```go
 var author string
 
@@ -371,7 +371,7 @@ In this example the persistent flag `author` is bound with `viper`.
 **Note**, that the variable `author` will not be set to the value from config,
 when the `--author` flag is not provided by user.
 
-More in [viper documentation](https://github.com/spf13/viper#working-with-flags).
+More in [viper documentation](https://github.com/xurwxj/viper#working-with-flags).
 
 ### Required flags
 
