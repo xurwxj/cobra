@@ -16,7 +16,7 @@ package doc
 import (
 	"strings"
 
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 )
 
 // Test to see if we have a reason to print See Also information in docs

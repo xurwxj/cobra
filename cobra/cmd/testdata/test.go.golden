@@ -18,7 +18,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 )
 
 // testCmd represents the test command

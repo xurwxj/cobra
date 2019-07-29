@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/xurwxj/viper"
-	"github.com/xurwxj/viper/doc"
+	"github.com/xurwxj/cobra"
+	"github.com/xurwxj/cobra/doc"
 )
 
 func ExampleGenManTree() {

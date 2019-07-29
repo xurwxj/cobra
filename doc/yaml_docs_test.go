@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 )
 
 func TestGenYamlDoc(t *testing.T) {

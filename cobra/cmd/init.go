@@ -15,7 +15,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 	"github.com/xurwxj/viper"
 	"os"
 	"path"

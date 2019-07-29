@@ -18,7 +18,7 @@ package cmd
 import (
   "fmt"
   "os"
-  "github.com/xurwxj/viper"
+  "github.com/xurwxj/cobra"
 
   homedir "github.com/mitchellh/go-homedir"
   "github.com/xurwxj/viper"

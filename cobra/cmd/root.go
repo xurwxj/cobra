@@ -17,7 +17,7 @@ import (
 	"fmt"
 
 	homedir "github.com/mitchellh/go-homedir"
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 	"github.com/xurwxj/viper"
 )
 

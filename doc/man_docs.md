@@ -8,8 +8,8 @@ package main
 import (
 	"log"
 
-	"github.com/xurwxj/viper"
-	"github.com/xurwxj/viper/doc"
+	"github.com/xurwxj/cobra"
+	"github.com/xurwxj/cobra/doc"
 )
 
 func main() {

@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/cpuguy83/go-md2man/md2man"
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 	"github.com/spf13/pflag"
 )
 

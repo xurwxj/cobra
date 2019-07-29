@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 )
 
 func translate(in string) string {

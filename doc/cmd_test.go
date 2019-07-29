@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/xurwxj/viper"
+	"github.com/xurwxj/cobra"
 )
 
 func emptyRun(*cobra.Command, []string) {}
