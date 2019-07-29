@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/spf13/cobra/cobra/tpl"
+	"github.com/xurwxj/viper/cobra/tpl"
 	"os"
 	"text/template"
 )

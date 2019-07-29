@@ -2,7 +2,7 @@ version: 2
 
 references:
   workspace: &workspace
-    /go/src/github.com/spf13/cobra
+    /go/src/github.com/xurwxj/viper
 
   run_tests: &run_tests
     run:
