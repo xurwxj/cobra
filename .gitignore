@@ -32,7 +32,12 @@ Session.vim
 tags
 
 *.exe
-
 cobra.test
+bin
 
-.idea/*
+.idea/
+*.iml
+
+README.pdf
+README.html
+README_tmp.html
