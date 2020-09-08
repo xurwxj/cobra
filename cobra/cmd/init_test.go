@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/spf13/viper"
+	"github.com/xurwxj/viper"
 )
 
 func getProject() *Project {

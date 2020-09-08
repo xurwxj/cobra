@@ -24,7 +24,7 @@ import (
   "github.com/xurwxj/viper"
 
 	homedir "github.com/mitchellh/go-homedir"
-	"github.com/spf13/viper"
+	"github.com/xurwxj/viper"
 )
 
 var cfgFile string
